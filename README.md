@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ##### 🌈 TOOL 🍀
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br><br>
-##### HIT
+##### ⚡ HIT ⚡
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyirangpark&count_bg=%23FC758A&title_bg=%23555555&icon=cloudbees.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
