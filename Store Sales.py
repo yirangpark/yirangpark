@@ -572,7 +572,4 @@ a[(a.store_nbr == 1) & (a.family == "GROCERY I")].set_index("date")[["sales", "s
 # %% [markdown]
 # ###### * 아래 링크를 참고 했으며, 개인적인 공부를 위한 코드입니다.<br>참고) https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
 
-# %% [markdown]
-# ###### * 아래 링크를 참고 했으며, 개인적인 공부를 위한 코드입니다.<br>참고) https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
-
 
